@@ -6,6 +6,11 @@
 * Your avatar must be added to the theme manually. I left a command for this from below
 * This theme only for alone user in your PC
 
+## Packages you need:
+* qt5-quickcontrols
+* qt5-graphicaleffects
+* qt6-declarative
+
 ## Installation
 ```
 git clone https://github.com/RomanLivik/sddm-macos-red-black.git
