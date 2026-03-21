@@ -1,15 +1,20 @@
-<img width="1920" height="1080" alt="Вставленное изображение" src="https://github.com/user-attachments/assets/570def75-edfc-4e85-8a4f-532a9b014100" />
+> The project is inactive now. Active theme is [here](https://github.com/exxtnd/exxtnd-sddm-theme)
 
 # Red&Black sddm theme for arch with hyprland.
+---
 ## !!!WARNING!!! <============ YOU MUST READ IT
 * Your avatar may move out due to the difference in the size of the monitors. The place where the avatar's size and position on the screen are edited is marked in the code with comments in capital letters.
 * Your avatar must be added to the theme manually. I left a command for this from below
 * This theme only for alone user in your PC
-
+---
 ## Packages you need:
 * qt5-quickcontrols
 * qt5-graphicaleffects
 * qt6-declarative
+
+## Screenshot
+
+<img width="1920" height="1080" alt="Вставленное изображение" src="https://github.com/user-attachments/assets/570def75-edfc-4e85-8a4f-532a9b014100" />
 
 ## Installation
 ```
