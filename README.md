@@ -19,7 +19,7 @@
 
 ## Installation
 ```
-git clone https://github.com/RomanLivik/sddm-macos-red-black.git
+git clone https://github.com/GadzhievAleksandr/sddm-macos-red-black
 sudo cp -r sddm-macos-red-black /usr/share/sddm/themes
 ```
 ### !!! After that you need to go to /etc/ and add to the sddm.conf:
